@@ -16,6 +16,7 @@ dataset split은 다음과 같음.
 - test dataset: 2009.01.01 ~ 2009.12.31   
 <br/>  
 <br/>
+<br/>
 총 두 가지 방법으로 project를 진행해보았음.<br/>
 1. 18개의 도시를 각각 input으로 넣어 weight을 달리하거나 model을 달리하여 predict<br/>
 2. 18개의 도시를 한 번에 input으로 넣어 predict<br/>
