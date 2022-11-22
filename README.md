@@ -5,18 +5,10 @@ RNN, LSTM, GRU 등의 RNN 계열 model로 kaggle에서 제공하는 날씨 데�
 
 
 
-
-
-
-
-
-
-
-
 다음 링크의 dataset 사용   
 > https://www.kaggle.com/datasets/thedevastator/weather-prediction   
    
-   
+<br/>
    
    
 data는 csv format이고 2000.1.1 ~ 2010.1.1까지의 날씨 정보가 담겨있음.   
