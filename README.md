@@ -1,8 +1,15 @@
 # Weather
 
 Predict tomorrow weather by using model related to RNN.   
-RNN, LSTM, GRU 등의 RNN 계열 model로 kaggle에서 제공하는 날씨 데이터를 갖고 다음날 mean temperature를 예측   
-  
+RNN, LSTM, GRU 등의 RNN 계열 model로 kaggle에서 제공하는 날씨 데이터를 갖고 다음날 mean temperature를 예측  
+
+
+
+
+
+
+
+
 
 
 
