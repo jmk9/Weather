@@ -9,8 +9,8 @@ RNN, LSTM, GRU 등의 RNN 계열 model로 kaggle에서 제공하는 날씨 데�
 > https://www.kaggle.com/datasets/thedevastator/weather-prediction   
    
 <br/>
-   
-   
+<br/>
+<br/>
 data는 csv format이고 2000.1.1 ~ 2010.1.1까지의 날씨 정보가 담겨있음.   
 총 18개의 도시가 존재하고, 각 도시마다 날씨 정보를 담고있는 8~10개의 column을 가짐.   
 dataset split은 다음과 같음.   
